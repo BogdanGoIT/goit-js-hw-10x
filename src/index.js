@@ -1,3 +1,3 @@
-import './sass/main.scss';
+import './css/styles.css';
 
-console.log('Hello World');
+const DEBOUNCE_DELAY = 300;
